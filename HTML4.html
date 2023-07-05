@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Forms Demo</h1>
+    <form action="/tacos">
+        <button type="submit">Please</button>
+        <p>
+            <label for="username">Enter a Username:</label>
+            <input type="text" placeholder="username" name="username">
+        </p>
+        <p>
+            <label for="password">Enter a Password:</label>
+            <input type="password" placeholder="password" id="password">
+        </p>
+        <p>
+            <label for="color">Enter a Color:</label>
+            <input type="color">
+        </p>
+        <p>
+            <label for="month">Click a Month:</label>
+            <input type="month">
+        </p>
+        <p>
+            <label for="number">NUM</label>
+            <input type="number" placeholder="enter a num" name="num" min="1" max="1000" step="3">
+            <textarea id="requests" rows="10" cols="40" name="requests" placeholder="Type something"></textarea>
+        </p>
+        <input type="number" placeholder="enter a number">
+        <button class="favorite">right</button>
+        <input type="submit">
+    </form>
+    <p></p>
+    <div class="preference">
+        <label for="cheese">Do you like cheese?</label>
+        <input type="checkbox" name="cheese" id="cheese">
+    </div>
+    <div class-"preference">
+        <label for="peas">Do you lie peas?</label>
+        <input type="checkbox" name="peas" id="peas">
+    </div>
+    <h2>Hijacking Searches</h2>
+    <form action="https://www.youtube.com/results">
+        <input type="text" name="q">
+        <button>Search youtube</button>
+    </form>
+    <form action="/birds">
+        <input type="checkbox" name="agree_tos" id="agree">
+        <label for="agree">I agree to everything</label>
+        <p>
+            <label for="xs">XS:</label>
+            <input type="radio" name="suze" id="xs" value="LOLOL">
+            <label for="s">S:</label>
+            <input type="radio" name="suze" id="s">
+            <label for="m">M:</label>
+            <input type="radio" name="suze" id="m">
+        </p>
+        <label for="meal">Pelase select</label>
+        <select name="meal" id="meal">
+            <option value="fish">Fish</option>
+            <option value="veg">Vegetarian</option>
+            <option value="steak">Steak</option>
+            <button>summit</button>
+        </select>
+        <label for="cheese">Amount of cheese:</label>
+        <input type="range" name="cheese_level id=" cheese" min="1" max="100" step="7">
+        <input type="text" id="username" name="username" minlength="1" maxlength="20">
+        <p>
+            <input type="email" name="dd" id="dd" required>
+        </p>
+        <button>summit</button>
+    </form>
+
+
+</body>
+
+</html>
