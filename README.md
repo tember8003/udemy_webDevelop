@@ -1,7 +1,7 @@
 # udemy_webDevelop 공부 (2023.06.26~ing) 
 ### HTML PART(06.26~06.30)
 ***
-[HTML 1 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/main/HTML1.html) + [HTML 2 페이지 연결(간단해서 따로 캡처는 안함.)](https://github.com/tember8003/udemy_webDevelop/blob/main/HTML2.html)
+[HTML 1 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML1.html) + [HTML 2 페이지 연결(간단해서 따로 캡처는 안함.)](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML2.html)
 
 _간단한 h1~h5와 이미지 달기, a를 이용한 링크 달기,페이지 연결,section,fooster,목록 li,ul 사용 등_
 ***
@@ -9,7 +9,7 @@ _간단한 h1~h5와 이미지 달기, a를 이용한 링크 달기,페이지 연
 ![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/c08afa43-5ebd-4846-8464-1fd4aef7736a)
 ***
 
-[HTML 3 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/main/HTML3.html)
+[HTML 3 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML3.html)
 
 _데이터 셀 정리용 -> thead , tbody, tr, td 사용_
 ***
@@ -18,7 +18,7 @@ _데이터 셀 정리용 -> thead , tbody, tr, td 사용_
 
 ***
 
-[HTML 4 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/main/HTML4.html) + [HTML 4 강의 예제 직접 만들기](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML5.html)
+[HTML 4 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML4.html) + [HTML 4 강의 예제 직접 만들기](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML5.html)
 
 _다양한 input type 활용(checkbox,text,password,month,email) 과 button 사용 및 정해진 범주 안에서 고르기_
 ***
