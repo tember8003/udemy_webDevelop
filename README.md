@@ -1,5 +1,5 @@
 # udemy_webDevelop 공부 (2023.06.26~ing) 
-### HTML PART(06.26~06.30)
+### HTML PART
 ***
 [HTML 1 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML1.html) + [HTML 2 페이지 연결(간단해서 따로 캡처는 안함.)](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML2.html)
 
@@ -30,5 +30,12 @@ _강의 예제 직접 만든 것_
 ![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/59d41cdc-600e-4a07-a35a-aae29c369ee0)
 
 ***
+### CSS PART
+***
+[CSS 1 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app.css)
 
+_button,h1,p,a 각종 데코레이션, 색깔 변경, 폰트 변경 등_
+***
+
+![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/736f6399-fc28-4822-bd88-931f9cef0d82)
 
