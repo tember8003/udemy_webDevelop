@@ -1,0 +1,100 @@
+* {
+    color: pink;
+    background-color: aliceblue
+}
+
+button {
+    font-size: 30px;
+    background-color: darkgray;
+}
+
+h1,
+h2 {
+    color: blue;
+}
+
+#signup {
+    /*id = #*/
+    background-color: darkred;
+}
+
+.tag {
+    /*class = .*/
+    background-color: teal;
+}
+
+.post a {
+    color: rebeccapurple;
+}
+
+footer a {
+    color: black;
+}
+
+input+button {
+    background-color: pink;
+}
+
+h2+button {
+    font-size: 30px;
+    background-color: aqua;
+}
+
+div>li {
+    color: white;
+}
+
+footer>a {
+    color: blueviolet;
+}
+
+input[type="password"] {
+    color: green;
+}
+
+a[href*="google"] {
+    color: magenta;
+}
+
+a[href$=".org"] {
+    font-style: italic;
+}
+
+#signup {
+    background-color: brown;
+}
+
+
+
+a:active {
+    background-color: green;
+}
+
+.post {
+    background-color: darkgrey;
+}
+
+.post:nth-of-type(3) {
+    background-color: lavender;
+}
+
+h2::first-letter {
+    font-size: 50px;
+}
+
+p::selection {
+    background-color: yellow;
+}
+
+h1,
+h2 {
+    color: darkcyan;
+}
+
+button:hover {
+    background-color: red;
+}
+
+.post button:hover {
+    background-color: burlywood;
+}
