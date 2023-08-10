@@ -1,4 +1,4 @@
-# udemy_webDevelop 공부 (2023.06.26~) 
+# udemy_webDevelop 공부 (2023.06.26~2023.07.27) 
 ### HTML PART
 ***
 [HTML 1 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML1.html) + [HTML 2 페이지 연결(간단해서 따로 캡처는 안함.)](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML2.html)
