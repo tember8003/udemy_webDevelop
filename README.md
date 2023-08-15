@@ -1,5 +1,7 @@
-# udemy_webDevelop 공부 (2023.06.26~2023.08.15) 
-### HTML PART
+***
+# ⏱ udemy_webDevelop 공부 (2023.06.26~2023.08.15) 
+</br> </br> 
+## ⌨HTML PART
 ***
 [[HTML 1 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML1.html) + [[HTML 2 페이지 연결(간단해서 따로 캡처는 안함.)]](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML2.html)
 
@@ -30,7 +32,7 @@ _강의 예제 직접 만든 것_
 ![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/59d41cdc-600e-4a07-a35a-aae29c369ee0)
 
 ***
-### CSS PART
+## ⌨CSS PART
 ***
 [[CSS 1 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app.css)
 
@@ -74,7 +76,7 @@ _가격표 만들기 예제 (강의 내용)_
 ![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/d6b35b9e-f0b2-453f-97b3-6aee05d13d96)
 ***
 
-### JAVASCRIPT
+## ⌨JAVASCRIPT
 
 [[JAVASCRIPT Source Code_html]](https://github.com/tember8003/udemy_webDevelop/blob/JAVASCRIPT/JVS_1.html) + [[JAVASCRIPT Source Code_js]](https://github.com/tember8003/udemy_webDevelop/blob/JAVASCRIPT/JVS_1.js)
 
