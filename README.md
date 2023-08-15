@@ -1,7 +1,7 @@
 # udemy_webDevelop 공부 (2023.06.26~2023.08.15) 
 ### HTML PART
 ***
-[HTML 1 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML1.html) + [HTML 2 페이지 연결(간단해서 따로 캡처는 안함.)](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML2.html)
+[[HTML 1 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML1.html) + [[HTML 2 페이지 연결(간단해서 따로 캡처는 안함.)]](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML2.html)
 
 _간단한 h1~h5와 이미지 달기, a를 이용한 링크 달기,페이지 연결,section,fooster,목록 li,ul 사용 등_
 
@@ -9,7 +9,7 @@ _간단한 h1~h5와 이미지 달기, a를 이용한 링크 달기,페이지 연
 ![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/c08afa43-5ebd-4846-8464-1fd4aef7736a)
 ***
 
-[HTML 3 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML3.html)
+[[HTML 3 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML3.html)
 
 _데이터 셀 정리용 -> thead , tbody, tr, td 사용_
 
@@ -18,7 +18,7 @@ _데이터 셀 정리용 -> thead , tbody, tr, td 사용_
 
 ***
 
-[HTML 4 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML4.html) + [HTML 4 강의 예제 직접 만들기](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML5.html)
+[[HTML 4 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML4.html) + [[HTML 4 강의 예제 직접 만들기]](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML5.html)
 
 _다양한 input type 활용(checkbox,text,password,month,email) 과 button 사용 및 정해진 범주 안에서 고르기_
 
@@ -32,7 +32,7 @@ _강의 예제 직접 만든 것_
 ***
 ### CSS PART
 ***
-[CSS 1 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app.css)
+[[CSS 1 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app.css)
 
 _button,h1,p,a 각종 데코레이션, 색깔 변경, 폰트 변경 등_
 
@@ -40,7 +40,7 @@ _button,h1,p,a 각종 데코레이션, 색깔 변경, 폰트 변경 등_
 ![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/736f6399-fc28-4822-bd88-931f9cef0d82)
 
 ***
-[CSS 2 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app2.css)
+[[CSS 2 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app2.css)
 
 _아이디를 활용한 css, 더 좁은 범위에서의 css를 다룸_
 
@@ -49,7 +49,7 @@ _아이디를 활용한 css, 더 좁은 범위에서의 css를 다룸_
 
 ***
 
-[CSS 3 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app3.css)
+[[CSS 3 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app3.css)
 
 _border,margin을 더 추가함_
 
@@ -59,7 +59,7 @@ _border,margin을 더 추가함_
 
 ***
 
-[CSS 4 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app4.css)
+[[CSS 4 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app4.css)
 
 _반응형 css,flexbox를 다룸)_
 
@@ -67,7 +67,7 @@ _반응형 css,flexbox를 다룸)_
 
 ***
 
-[CSS 5 Source Code](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app5.css)
+[[CSS 5 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app5.css)
 
 _가격표 만들기 예제 (강의 내용)_
 
