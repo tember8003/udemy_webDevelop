@@ -76,7 +76,7 @@ _가격표 만들기 예제 (강의 내용)_
 
 ### JAVASCRIPT
 
-[[JAVASCRIPT Source Code_html]](https://github.com/tember8003/udemy_webDevelop/blob/JAVASCRIPT/JVS_1.html) + [[JAVASCRIPT Source Code js]](https://github.com/tember8003/udemy_webDevelop/blob/JAVASCRIPT/JVS_1.js)
+[[JAVASCRIPT Source Code_html]](https://github.com/tember8003/udemy_webDevelop/blob/JAVASCRIPT/JVS_1.html) + [[JAVASCRIPT Source Code_js]](https://github.com/tember8003/udemy_webDevelop/blob/JAVASCRIPT/JVS_1.js)
 
 _SCORE KEEPER (강의 내용)_
 
