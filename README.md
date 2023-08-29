@@ -7,8 +7,8 @@
 
 _간단한 h1~h5와 이미지 달기, a를 이용한 링크 달기,페이지 연결,section,fooster,목록 li,ul 사용 등_
 
+![chicken](https://github.com/tember8003/udemy_webDevelop/assets/104021663/bd691eca-9331-4a3f-8384-9c64d16cf0ed)
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/c08afa43-5ebd-4846-8464-1fd4aef7736a)
 ***
 
 [[HTML 3 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/HTML/HTML3.html)
@@ -16,7 +16,8 @@ _간단한 h1~h5와 이미지 달기, a를 이용한 링크 달기,페이지 연
 _데이터 셀 정리용 -> thead , tbody, tr, td 사용_
 
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/587142f3-4b6e-4a69-b9da-8e71bc154a82)
+![heaviest_bird](https://github.com/tember8003/udemy_webDevelop/assets/104021663/f3541eb1-490d-4963-aa39-1c212f0ef7eb)
+
 
 ***
 
@@ -24,12 +25,14 @@ _데이터 셀 정리용 -> thead , tbody, tr, td 사용_
 
 _다양한 input type 활용(checkbox,text,password,month,email) 과 button 사용 및 정해진 범주 안에서 고르기_
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/3405a5f0-c41a-4aa6-8b98-e9982f88260e)
+![form](https://github.com/tember8003/udemy_webDevelop/assets/104021663/c36fbfc1-23c7-4000-84d2-7125ee15e4ff)
+
 
 _강의 예제 직접 만든 것_
 
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/59d41cdc-600e-4a07-a35a-aae29c369ee0)
+![race](https://github.com/tember8003/udemy_webDevelop/assets/104021663/46527ead-faa3-4b2e-8bcd-31fde9fa2382)
+
 
 ***
 ## ⌨CSS PART
