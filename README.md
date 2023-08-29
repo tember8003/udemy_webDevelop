@@ -39,15 +39,16 @@ _강의 예제 직접 만든 것_
 _button,h1,p,a 각종 데코레이션, 색깔 변경, 폰트 변경 등_
 
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/736f6399-fc28-4822-bd88-931f9cef0d82)
+![index](https://github.com/tember8003/udemy_webDevelop/assets/104021663/657e7dcc-09cb-45dc-ad74-4951a2f7cf85)
+
 
 ***
 [[CSS 2 Source Code]](https://github.com/tember8003/udemy_webDevelop/blob/CSS/app2.css)
 
 _아이디를 활용한 css, 더 좁은 범위에서의 css를 다룸_
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/f4542bd5-13d1-4820-b8ad-82997df2dd20)
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/3a5023ec-65ae-4548-b736-e4789b6802a7)
+![temp](https://github.com/tember8003/udemy_webDevelop/assets/104021663/3c07d37e-c2f1-4833-b7e3-92541b954514)
+![temp-1](https://github.com/tember8003/udemy_webDevelop/assets/104021663/abb4fdb0-ef22-43ea-854d-47d5c0f26bb5)
 
 ***
 
