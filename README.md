@@ -65,7 +65,8 @@ _border,margin을 더 추가함_
 
 _반응형 css,flexbox를 다룸)_
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/fb8bd4b8-0a61-4d5e-b850-017e79cf50cb)
+![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/ef72864d-f042-428a-ae47-c7f429f0294d)
+
 
 ***
 
