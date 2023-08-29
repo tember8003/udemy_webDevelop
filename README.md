@@ -73,7 +73,8 @@ _반응형 css,flexbox를 다룸)_
 
 _가격표 만들기 예제 (강의 내용)_
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/d6b35b9e-f0b2-453f-97b3-6aee05d13d96)
+![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/ead34e72-2a17-409a-a510-6c3dd1a9b6cd)
+
 ***
 
 ## ⌨JAVASCRIPT
@@ -82,6 +83,7 @@ _가격표 만들기 예제 (강의 내용)_
 
 _SCORE KEEPER (강의 내용)_
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/e00a388d-47e2-4158-91c9-5f05520bcbbe)
+![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/e7473910-b556-4251-a922-190ba3b5d5b2)
+
 
 ***
