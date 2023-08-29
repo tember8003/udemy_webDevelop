@@ -55,9 +55,9 @@ _아이디를 활용한 css, 더 좁은 범위에서의 css를 다룸_
 
 _border,margin을 더 추가함_
 
+![temp2](https://github.com/tember8003/udemy_webDevelop/assets/104021663/eb00274d-9305-46cd-ba68-053710a6ee78)
 
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/498916ee-3fc3-452b-8849-9ea7aff6d1d0)
-![image](https://github.com/tember8003/udemy_webDevelop/assets/104021663/d9b25e20-2e96-4d7a-a442-3525e10eb84e)
+![temp2-2](https://github.com/tember8003/udemy_webDevelop/assets/104021663/f110378b-d84d-440c-9b39-6603482e9073)
 
 ***
 
